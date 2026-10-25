@@ -1,4 +1,4 @@
-# CodeAlpha_NetworkSniffer
+
 # CodeAlpha_NetworkSniffer
 
 Basic network sniffer in Python, built for the CodeAlpha Cyber Security Internship (Task 1).
